@@ -1,0 +1,49 @@
+
+/* SET DEFAULT PADDING AND MARGIN FOR ALL HTML ELEMENTS  */
+
+* {margin:0;padding:0}
+
+body{font-family:Arial,Times New Romans;Tahoma}
+
+/* STYLES FOR TOP-SECTION ELEMENTS */
+
+.top-section {width:100%;height:120px;margin:auto}
+.b6logo{float:left;width:100px;padding-top:7px;padding-left:150px}
+.locationicon{float:left;width:25px;padding-top:30px;padding-left:180px}
+address{float:left;padding-top:27px;padding-left:8px}
+.clockicon{float:left;width:25px;padding-top:30px;padding-left:180px}
+h4{float:left;padding-top:27px;padding-left:8px;font-size:13px}
+
+
+/* STYLES FOR MENU-SECTION ELEMENTS */
+
+.menu-section {width:100%;height:77px;margin:auto;clear:both;padding-top:25px;background-color:darkblue}
+.menu-section ul{position:relative}
+.menu-section ul li{display:inline-block;list-style-type:none;float:left}
+.menu-section ul li a{text-decoration:none;font-size:22px;text-align:center;
+padding-left:150px;color:white;cursor:pointer}
+.menu-section ul li a:active{color:grey}
+.menu-section ul li a:visited{color:red}
+.menu-section ul li a:hover{color:yellow}
+
+/* STYLES FOR MAIN-IMAGE */
+#main-image{width:100%;height:120px;}
+#main-image img{width:100%;height:250px;}
+#main-image p{text-align:center;font-size:50px;margin-top:-200px;color:yellow;
+font-weight:bolder;
+}
+.last-para{width:80%;margin:auto;margin-top:200px;color:grey}
+footer{width:100%;height:50px;margin:auto;background-color:rgba(0,0,22,0.9);margin-top:50px}
+footer,span{color:white;text-align:center;padding-top:30px}
+
+
+
+
+
+
+
+
+
+
+
+
